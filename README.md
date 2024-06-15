@@ -14,3 +14,4 @@ This repository serves as a collection of development notes and previously solve
 [v8 엔진에서의 정렬 알고리즘 프로세스](/notes/1.md#why-sorting-in-dynamic-languages-is-challenging)<br>
 [ts에서 컴파일 친화적인 코드 작성 방법](/notes/1.md#writing-code-thats-easy-to-compile)<br>
 [zod를 쓰는 이유](/notes/1.md#zod)<br>
+[next.js app router로 만드는 블로그 튜토리얼](https://github.com/wooleejaan/august-archive)<br>
